@@ -11,7 +11,6 @@ Select one of the templates below which best describes your issue/report:
 
 1. [Feedback](https://github.com/consteagle-com/issues/issues/new?template=ISSUE_TEMPLATE.md)
 2. [Bug/Issue Report](https://github.com/consteagle-com/issues/issues/new?template=BUG_TEMPLATE.md)
-3. [Feature_request](https://github.com/consteagle-com/issues/issues/new?template=FEATURE_REQUEST.md)
 
 ## Rating a Report or a Comment
 
