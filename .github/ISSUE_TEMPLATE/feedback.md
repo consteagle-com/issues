@@ -8,10 +8,11 @@ about: Suggest an idea for this project
 
 I think we should introduce more cats on the DBL Website because they ..
 
-- Are cute
+- that's nice
 - Improve the user experience
 
-and also are *better* than **dogs**
+it's really beautiful
 
-**Screenshots**
+#### Screenshots
+
 If applicable, add screenshots to help explain your problem.
