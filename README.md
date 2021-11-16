@@ -1,4 +1,4 @@
-# Discord Bot List Issues
+# ConstEagle Issues
 
 Thank you for reporting any issues you are facing. By doing that you help us and the community making Discord Bot List a better place for everyone.
 
