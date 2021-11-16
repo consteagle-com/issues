@@ -12,3 +12,6 @@ I think we should introduce more cats on the DBL Website because they ..
 - Improve the user experience
 
 and also are *better* than **dogs**
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
