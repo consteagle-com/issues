@@ -4,8 +4,8 @@ Thank you for reporting any issues you are facing. By doing that you help us and
 
 Before you report an issue, please consider these simple rules:
 
-- Your report should be concise and on topic
-- Keep discussions to the issue at hand, be friendly and constructive
+- Your report should be concise and on topic.
+- Keep discussions to the issue at hand, be friendly and constructive.
 
 Select one of the templates below which best describes your issue/report:
 
