@@ -6,7 +6,7 @@ about: Suggest an idea for this project
 
 #### Suggestion
 
-I think we should introduce more cats on the DBL Website because they ..
+I think we should introduce more cats on the DBL Website because they...
 
 - that's nice
 - Improve the user experience
